@@ -1,0 +1,3 @@
+SET HELPFILES=C:\Masm\*.HLP
+set INIT=c:\Masm
+QH
