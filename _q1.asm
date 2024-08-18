@@ -23,10 +23,9 @@ main PROC
 	mov edx, offset str1
 	call WriteString
 
-	mov edx, offset Zval
+	mov edx, offset Rval
 	call WriteDec
 	call Crlf
-
 
 	exit
 main ENDP
