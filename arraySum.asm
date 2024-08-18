@@ -1,7 +1,7 @@
 TITLE sum array elements
 ;
 
-INCLUDE Irvine32.inc
+INCLUDE ./INCLUDE/Irvine32.inc
 
 .data
 myBytes BYTE 80,66,75

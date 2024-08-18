@@ -1,21 +1,21 @@
-TITLE Add and Subtract           (AddSub.asm)
+TITLE Add and Subtract,   (AddSub.asm)
+; This program adds and subtracts 32-bit unsigned
+; integers and stores the sum in a variable.
 
-; This program adds and subtracts 32-bit integers.
-
-INCLUDE Irvine32.inc
+INCLUDE ./INCLUDE/Irvine32.inc
+.data
+val1 DWORD 10000h
+val2 DWORD 40000h
+val3 DWORD 20000h
+finalVal DWORD ?
 
 .code
 main PROC
-
-	mov eax,10000h		; EAX = 10000h
-	add eax,40000h		; EAX = 50000h
-	sub eax,50000h		; EAX = 0000h
-	call DumpRegs		; display registers
-
-	exit
+    mov eax,val1        ; start with 10000h
+    add eax,val2        ; add 40000h
+    sub eax,val3        ; subtract 20000h
+    mov finalVal,eax    ; store the result (30000h)
+    call DumpRegs       ; display the registers
+    exit
 main ENDP
-
-
-
 END main
-

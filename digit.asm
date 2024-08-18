@@ -1,7 +1,7 @@
 TITLE Add and Subtract, Version 2            (AddSub2.asm)
 ; This program adds and subtracts 32-bit unsigned
 ; integers and stores the sum in a variable.
-INCLUDE Irvine32.inc
+INCLUDE ./INCLUDE/Irvine32.inc
 .data
 
 .code

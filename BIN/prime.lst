@@ -3,7 +3,7 @@ Prime Number						     Page 1 - 1
 
 
 				TITLE Prime Number
-				INCLUDE Irvine32.inc
+				INCLUDE ./INCLUDE/Irvine32.inc
 			      C ; Include file for Irvine32.lib             (Irvine32.inc)
 			      C 
 			      C INCLUDE SmallWin.inc		; MS-Windows prototypes, structures, and constants

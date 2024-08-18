@@ -1,5 +1,5 @@
 
-INCLUDE Irvine32.inc
+INCLUDE ./INCLUDE/Irvine32.inc
 
 .data
 str1 BYTE " Enter your name! " , 0
