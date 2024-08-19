@@ -1,4 +1,3 @@
-
 INCLUDE ./INCLUDE/Irvine32.inc
 
 .data

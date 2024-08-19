@@ -1,5 +1,3 @@
-TITLE       (.asm)
-
 INCLUDE ./INCLUDE/Irvine32.inc
 
 .data
@@ -12,7 +10,6 @@ INCLUDE ./INCLUDE/Irvine32.inc
 
 .code
 main PROC
-
     mov ebx,Yval
 	neg ebx
 	add ebx,Zval

@@ -11,12 +11,18 @@
   <component name="ChangeListManager">
     <list default="true" id="8ced2798-d369-4a07-8c0b-2b51bce87e62" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddSub.asm" beforeDir="false" afterPath="$PROJECT_DIR$/AddSub.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_.asm" beforeDir="false" afterPath="$PROJECT_DIR$/_.asm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_main.asm" beforeDir="false" afterPath="$PROJECT_DIR$/_main.asm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_q1.asm" beforeDir="false" afterPath="$PROJECT_DIR$/_q1.asm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/1.MD" beforeDir="false" afterPath="$PROJECT_DIR$/notes/1.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arraySum.asm" beforeDir="false" afterPath="$PROJECT_DIR$/arraySum.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box.asm" beforeDir="false" afterPath="$PROJECT_DIR$/box.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caps.asm" beforeDir="false" afterPath="$PROJECT_DIR$/caps.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convert.asm" beforeDir="false" afterPath="$PROJECT_DIR$/convert.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convert5.asm" beforeDir="false" afterPath="$PROJECT_DIR$/convert5.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/digit.asm" beforeDir="false" afterPath="$PROJECT_DIR$/digit.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.asm" beforeDir="false" afterPath="$PROJECT_DIR$/practice.asm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/q1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/q1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_main.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/_main.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vote.asm" beforeDir="false" afterPath="$PROJECT_DIR$/vote.asm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +113,8 @@
       <updated>1723937270288</updated>
       <workItem from="1723937271799" duration="6632000" />
       <workItem from="1723944126072" duration="126000" />
-      <workItem from="1723974349069" duration="22481000" />
+      <workItem from="1723974349069" duration="22725000" />
+      <workItem from="1724064481465" duration="1175000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -133,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723989140327</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=".">
+      <option name="closed" value="true" />
+      <created>1723999535019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723999535019</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

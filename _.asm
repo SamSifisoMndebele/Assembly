@@ -3,15 +3,17 @@ TITLE Main
 INCLUDE ./INCLUDE/Irvine32.inc
 
 .data
-list BYTE 6,10,20,30,40
+wdList LABEL DWORD
+list BYTE 6h,10h,20h,30h,40h
+
 ListSize = ($ - list)
 
 .code
 main PROC
 
     mov esi, offset list
-    movzx eax, list
-    mov ebx, ListSize
+    mov eax, wdList
+    sub eax, 40201006h
 
     call DumpRegs
 

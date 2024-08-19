@@ -1,5 +1,4 @@
 TITLE sum array elements
-;
 
 INCLUDE ./INCLUDE/Irvine32.inc
 
