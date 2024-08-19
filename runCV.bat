@@ -1,8 +1,8 @@
 REM Run CodeView
 REM Updated 1/1/02
 
-PATH c:\Masm
-set HELPFILES=c:\Masm
-set INIT=c:\Masm
+PATH %cd%
+set HELPFILES=%cd%
+set INIT=%cd%
 
 CV /43 %1

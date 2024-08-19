@@ -7,9 +7,9 @@ REM  2/17/02: added the -Sg command line option (displays generated code generat
 
 REM The following three lines can be customized for your system:
 REM ********************************************BEGIN customize
-SET PATH=C:\Masm
-SET INCLUDE=C:\Masm\INCLUDE
-SET LIB=C:\Masm\LIB
+SET PATH=%cd%
+SET INCLUDE=%cd%\INCLUDE
+SET LIB=%cd%\LIB
 REM ********************************************END customize
 
 ML /nologo -Zi -c -Fl -Sg -coff %1.asm

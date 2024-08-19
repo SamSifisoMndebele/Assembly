@@ -6,14 +6,14 @@ By: Kip Irvine
 ***********************************************************************
 REM special version for the LIB32 directory. This batch file links
 REM the current program to the IRVINE32.LIB in the current directory
-REM (rather than the one in the C:\Masm\LIB directory.
+REM (rather than the one in the .\LIB directory.
 REM Also, the Irvine32.inc file is used from the current directory.
 ***********************************************************************
 
 @echo off
 cls
 
-PATH C:\Masm
+PATH %cd%
 
 ml -Zi -c -Fl -coff %1.asm
 if errorLevel 1 goto terminate

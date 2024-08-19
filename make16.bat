@@ -18,9 +18,9 @@ REM %1.asm      The name of the source file, passed on the command line
 SETLOCAL
 
 REM ************* The following lines can be customized:
-PATH C:\Masm
-SET INCLUDE=C:\Masm\INCLUDE
-SET LIB=C:\Masm\LIB
+PATH %cd%
+SET INCLUDE=%cd%\INCLUDE
+SET LIB=%cd%\LIB
 REM **************************** End of customized lines
 
 REM Invoke ML.EXE (the assembler):

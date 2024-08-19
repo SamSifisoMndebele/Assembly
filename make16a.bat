@@ -24,23 +24,23 @@ REM temporary. This works in CMD.EXE (the Windows 2000 & Windows XP command-line
 REM interpreter, but it does not work in COMMAND.COM (used by DOS and Windows 98).
 REM As a stopgap solution, we have prepended the MASM directory to the paths of
 REM the ML and LINK commands in this file. Customize these paths if your MASM
-REM is not installed in the C:\Masm directory.
+REM is not installed in the directory.
 
 REM ******** The following lines can also be customized to suit your system setup:
-SET INCLUDE=C:\Masm\INCLUDE
-SET LIB=C:\Masm\LIB
+SET INCLUDE=%cd%\INCLUDE
+SET LIB=%cd%\LIB
 REM *******************************************************************************
 
 REM Invoke ML.EXE (the assembler). Customize for your MASM directory location:
 
-C:\Masm\ML /nologo -c -Fl -Zi %1.asm
+%cd%\ML /nologo -c -Fl -Zi %1.asm
 if errorlevel 1 goto terminate
 
 REM Run the 16-bit linker. Format:
 REM       LINK objectfile,execfile,mapfile,library
 REM Customize the following line for your MASM directory location:
 
-C:\Masm\LINK /nologo /CODEVIEW %1,,%1,Irvine16;
+%cd%\LINK /nologo /CODEVIEW %1,,%1,Irvine16;
 if errorlevel 1 goto terminate
 
 REM Display all files related to this program:

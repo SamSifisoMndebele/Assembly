@@ -1,3 +1,3 @@
-SET HELPFILES=C:\Masm\*.HLP
-set INIT=c:\Masm
+SET HELPFILES=%cd%\*.HLP
+set INIT=%cd%
 QH
