@@ -14,8 +14,152 @@
   <component name="ChangeListManager">
     <list default="true" id="8ced2798-d369-4a07-8c0b-2b51bce87e62" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.run/RunAsm.run.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.run/RunAsm.run.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddSub.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/AddSub.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/ASMTHRED.INC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/BIOS.INC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/BSCMAKE.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/BSCMAKEV.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/CMACROS.INC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/CREF.DOC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/CREF.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/CV.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/CV.ICO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/CVPACK.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/CVW.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/CVW1.386" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/CVW4.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/DMW0.DLL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/DOS.INC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/DOSXNT.386" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/DOSXNT.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/EED1CXX.DLL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/EEW0CXX.DLL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/EMD1D1.DLL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/EMD1W0.DLL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/EMM386.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/EMW0W0.DLL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/EXEHDR.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/EXP.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/H2INC.ERR" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/H2INC.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/HELPMAKE.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/HIMEM.SYS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/IMPLIB.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/LIB.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/LIBTEST.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/LINK.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/LINK32.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/LibTest.asm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/MASM.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/MASM.GRP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/ML.ERR" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/ML.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/MOUSE.COM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/MSD.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/MSD.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/MSPDB60.DLL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/Macros.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/NEW-CONF.SYS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/NEW-SYS.INI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/NEW-VARS.BAT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/NMAKE.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/NMAKER.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/OEM08.FON" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/OEM10.FON" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/PROLOGUE.INC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/PWB.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/PWB.ICO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/PWB.PIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/PWBBASIC.XXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/PWBC.XXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/PWBFORT.XXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/PWBHELP.MXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/PWBMASM.MXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/PWBPROF.XXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/PWBRMAKE.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/PWBROWSE.MXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/PWBUTILS.MXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/QH.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/QH.ICO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/RAMDRIVE.SYS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/RC.BAT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/RCVCOM.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/RCVWCOM.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/RM.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/SBRPACK.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/SHD1.DLL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/SHW0.DLL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/SMARTDRV.DOC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/SMARTDRV.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/SmallWin.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/TLD1COM.DLL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/TLD1LOC.DLL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/TLW0LOC.DLL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/TOOLHELP.DLL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/UNDEL.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/VMB.386" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/WIN.INC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/WINCLOCK.ASM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/WX.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/WXSRVR.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/factorial.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/libtest.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/make32.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/makeLib.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIN/prime.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INCLUDE/GraphWin.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INCLUDE/Irvine16.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INCLUDE/Irvine32.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INCLUDE/Macros.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INCLUDE/MyLib32.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INCLUDE/SmallWin.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INCLUDE/WIN.INC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIB/Irvine16.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIB/Irvine32.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIB/IrvineLibHelp.chm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIB/KERNEL32.LIB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIB/MyLib32.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIB/USER32.LIB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/array.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_main.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_q1.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/q1.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arraySum.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraySum.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/box.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caps.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/caps.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convert.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/convert.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convert5.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/convert5.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/q1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/cpp/q1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/digit.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/digit.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/1.MD" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/1.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/4.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Copying a String.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/Copying a String.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Data-Related Operators and Directives.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/Data-Related Operators and Directives.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Flags.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/Flags.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/JMP and LOOP Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/JMP and LOOP Instructions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/practice.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q1.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/run.bat" beforeDir="false" afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Average.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/Average.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EffectiveSets.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/EffectiveSets.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindChar.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/FindChar.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindString.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/FindString.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GCD.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/GCD.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GenerateSequence.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/GenerateSequence.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HammingDistance.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/HammingDistance.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntToStr.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/IntToStr.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LCM.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/LCM.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MAX.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/MAX.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MIN.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/MIN.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MessageBox.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/MessageBox.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadStrFromFile.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/ReadStrFromFile.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reverse.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/Reverse.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/Sort.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StrToInt.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/StrToInt.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringAnalysis.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/StringAnalysis.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubString.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/SubString.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WriteStrIntoFile.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/WriteStrIntoFile.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_main.asm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vote.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/vote.asm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,30 +200,38 @@
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/CLionProjects/Assembly",
+    "last_opened_file_path": "D:/CLionProjects/Assembly/asm",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Settings.Markdown",
+    "settings.editor.selected.configurable": "editing.templates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CLionProjects\Assembly\asm" />
+      <recent name="D:\CLionProjects\Assembly\.lib\lib" />
+      <recent name="D:\CLionProjects\Assembly\.lib\include" />
       <recent name="C:\Masm" />
       <recent name="C:\Masm\src" />
-      <recent name="C:\Masm615\src" />
-      <recent name="C:\Masm615" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Masm" />
-      <recent name="C:\Masm615" />
-      <recent name="C:\Masm615\src" />
+      <recent name="D:\CLionProjects\Assembly\src" />
+      <recent name="D:\CLionProjects\Assembly\src\asm" />
+      <recent name="D:\CLionProjects\Assembly\src\notes" />
+      <recent name="D:\CLionProjects\Assembly\src\cpp" />
+      <recent name="D:\CLionProjects\Assembly" />
     </key>
   </component>
   <component name="RunManager" selected="Shell Script.RunAsm">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="q1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Assembly" TARGET_NAME="q1.cpp" CONFIG_NAME="q1.cpp">
       <option name="sourceFile" value="cpp\q1.cpp" />
       <method v="2">
@@ -108,7 +260,8 @@
       <workItem from="1723944126072" duration="126000" />
       <workItem from="1723974349069" duration="22725000" />
       <workItem from="1724064481465" duration="1175000" />
-      <workItem from="1724066174613" duration="895000" />
+      <workItem from="1724066174613" duration="1283000" />
+      <workItem from="1724278258858" duration="7258000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -150,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724066666248</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=".">
+      <option name="closed" value="true" />
+      <created>1724067361116</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724067361116</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,5 +320,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
     <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

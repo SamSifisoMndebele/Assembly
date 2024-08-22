@@ -1,4 +1,4 @@
-INCLUDE ./INCLUDE/Irvine32.inc
+INCLUDE Irvine32.inc
 
 .data
 bVal BYTE ?
