@@ -1,7 +1,8 @@
 # `JMP` Instruction
-* JMP is an unconditional jump to a label that is usually within the  same procedure.
-* Syntax: JMP target
-* Logic: EIP <-- target
+* `JMP` is an unconditional jump to a label that is usually within the  same procedure.
+* Syntax: `JMP target`
+* Logic: `EIP`*(Instruction Pointer)* <-- target
+  * `EIP` points to the next instruction to be executed in the program.
 ```asm
 label:
     .
@@ -10,11 +11,11 @@ label:
 ```
 ---
 # LOOP Instruction
-* The LOOP instruction creates a counting loop
-* Syntax: LOOP target
+* The `LOOP` instruction creates a counting loop
+* Syntax: `LOOP target`
 * Logic:
-  * ECX <-- ECX – 1
-  * if ECX != 0, jump to target
+  * `ECX`*(Count Register)* <-- `ECX – 1`
+  * if `ECX != 0`, jump to target
 * Implementation: 
   * The assembler calculates the distance, in bytes, between the offset of the following instruction and the offset of the target label. It is called the relative offset.
   * The relative offset is added to EIP.
