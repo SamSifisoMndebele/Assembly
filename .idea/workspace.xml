@@ -12,13 +12,16 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ced2798-d369-4a07-8c0b-2b51bce87e62" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/copyString.asm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cpp/asdc.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumArray.asm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arraySum.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraySum.asm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/notes/JMP and LOOP Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/JMP and LOOP Instructions.md" afterDir="false" />
+    <list default="true" id="a294848d-d50f-4f14-8776-5f93b52a1aae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Masm615.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.pdb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,147 +34,47 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="2ko5omfPwPk9gCTjmcw5fPpvchT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2lhMcj9ocBrIK6guji763o05oFH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Batch.BuildMainAsm.executor": "Run",
-    "Batch.MainAsm.executor": "Run",
-    "Batch.Run.executor": "Run",
-    "C/C++ File.q1.cpp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "Shell Script.Run.executor": "Run",
     "Shell Script.RunAsm.executor": "Run",
-    "Shell Script.RunMain.executor": "Run",
-    "Shell Script.Unnamed.executor": "Run",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/CLionProjects/Assembly/asm",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Settings.Markdown",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\CLionProjects\Assembly\asm" />
-      <recent name="D:\CLionProjects\Assembly\.lib\lib" />
-      <recent name="D:\CLionProjects\Assembly\.lib\include" />
-      <recent name="C:\Masm" />
-      <recent name="C:\Masm\src" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\CLionProjects\Assembly\src" />
-      <recent name="D:\CLionProjects\Assembly\src\asm" />
-      <recent name="D:\CLionProjects\Assembly\src\notes" />
-      <recent name="D:\CLionProjects\Assembly\src\cpp" />
-      <recent name="D:\CLionProjects\Assembly" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8ced2798-d369-4a07-8c0b-2b51bce87e62" name="Changes" comment="" />
-      <created>1723937270288</created>
+      <changelist id="a294848d-d50f-4f14-8776-5f93b52a1aae" name="Changes" comment="" />
+      <created>1725627937123</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1723937270288</updated>
-      <workItem from="1723937271799" duration="6632000" />
-      <workItem from="1723944126072" duration="126000" />
-      <workItem from="1723974349069" duration="22725000" />
-      <workItem from="1724064481465" duration="1175000" />
-      <workItem from="1724066174613" duration="1283000" />
-      <workItem from="1724278258858" duration="17376000" />
+      <updated>1725627937123</updated>
+      <workItem from="1725627938388" duration="407000" />
     </task>
-    <task id="LOCAL-00001" summary=".">
-      <option name="closed" value="true" />
-      <created>1723985942803</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1723985942803</updated>
-    </task>
-    <task id="LOCAL-00002" summary=".">
-      <option name="closed" value="true" />
-      <created>1723988414263</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1723988414263</updated>
-    </task>
-    <task id="LOCAL-00003" summary=".">
-      <option name="closed" value="true" />
-      <created>1723989140327</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1723989140327</updated>
-    </task>
-    <task id="LOCAL-00004" summary=".">
-      <option name="closed" value="true" />
-      <created>1723999535019</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1723999535019</updated>
-    </task>
-    <task id="LOCAL-00005" summary=".">
-      <option name="closed" value="true" />
-      <created>1724066666248</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1724066666248</updated>
-    </task>
-    <task id="LOCAL-00006" summary=".">
-      <option name="closed" value="true" />
-      <created>1724067361116</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1724067361116</updated>
-    </task>
-    <task id="LOCAL-00007" summary=".">
-      <option name="closed" value="true" />
-      <created>1724286496472</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1724286496472</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
