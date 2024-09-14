@@ -13,12 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a294848d-d50f-4f14-8776-5f93b52a1aae" name="Changes" comment="14/9/2024">
-      <change afterPath="$PROJECT_DIR$/src/exc1.asm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/notes/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/notes/proc.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/asm/convert.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/asm/convert.asm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/asm/vote.asm" beforeDir="false" afterPath="$PROJECT_DIR$/src/vote.asm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +33,12 @@
     &quot;assignee&quot;: &quot;SamSifisoMndebele&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/SamSifisoMndebele/Assembly.git&quot;,
-    &quot;accountId&quot;: &quot;bad3d145-b891-42e4-be14-cd750b337aa5&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SamSifisoMndebele/Assembly.git",
+    "accountId": "f4ff392a-7532-42b5-b0d6-6d16147d242c"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -51,26 +47,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "Shell Script.RunAsm.executor": "Run",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/CLionProjects/Assembly",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Settings.Markdown",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;Shell Script.RunAsm.executor&quot;: &quot;Run&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/CLionProjects/Assembly&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.Markdown&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\CLionProjects\Assembly\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,6 +83,7 @@
       <workItem from="1725627938388" duration="1130000" />
       <workItem from="1725699595877" duration="20917000" />
       <workItem from="1726320001437" duration="1003000" />
+      <workItem from="1726321020273" duration="586000" />
     </task>
     <task id="LOCAL-00001" summary="1.0.0">
       <option name="closed" value="true" />
@@ -99,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726320962191</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="14/9/2024">
+      <option name="closed" value="true" />
+      <created>1726321053958</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726321053958</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
