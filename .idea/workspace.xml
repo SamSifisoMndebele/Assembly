@@ -12,7 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a294848d-d50f-4f14-8776-5f93b52a1aae" name="Changes" comment="1.0.0">
+    <list default="true" id="a294848d-d50f-4f14-8776-5f93b52a1aae" name="Changes" comment="14/9/2024">
       <change afterPath="$PROJECT_DIR$/src/exc1.asm" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/notes/img.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/notes/proc.md" afterDir="false" />
@@ -81,7 +81,7 @@
       <updated>1725627937123</updated>
       <workItem from="1725627938388" duration="1130000" />
       <workItem from="1725699595877" duration="20917000" />
-      <workItem from="1726320001437" duration="545000" />
+      <workItem from="1726320001437" duration="1003000" />
     </task>
     <task id="LOCAL-00001" summary="1.0.0">
       <option name="closed" value="true" />
@@ -91,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725628492111</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="14/9/2024">
+      <option name="closed" value="true" />
+      <created>1726320962191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726320962191</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,7 +108,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="1.0.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.0.0" />
+    <MESSAGE value="14/9/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="14/9/2024" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
