@@ -1,27 +1,15 @@
 INCLUDE Irvine32.inc
 
 .data
-bVal BYTE ?
-wVal WORD ?
-dVal DWORD ?
-dVal2 DWORD ?
+    str1 BYTE "Color output is easy!",0
 
 .code
 main PROC
-
-    mov al,-128
-    neg al	        ; CF =  OF =
-
-    mov ax,8000h
-    add ax,2        ; CF =	OF =
-
-    mov ax,0
-    sub ax,2        ; CF =	OF =
-
-    mov al,-5
-    sub al,+125     ; CF =	OF =
-
-    call DumpRegs
+    mov  eax,red + (blue * 16)
+    call SetTextColor
+    mov  edx,OFFSET str1
+    call WriteString
+    call Crlf
 
     exit
 main ENDP
